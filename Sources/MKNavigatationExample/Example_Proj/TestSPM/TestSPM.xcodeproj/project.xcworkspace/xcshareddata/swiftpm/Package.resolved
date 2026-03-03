@@ -1,0 +1,15 @@
+{
+  "originHash" : "e7b267e70a76b5b50501e8b3c9315d76b075afc35731a3cb8d5760f4da6cf3e8",
+  "pins" : [
+    {
+      "identity" : "mknavigatation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MayannkKankrecha/MKNavigatation",
+      "state" : {
+        "revision" : "816dddd42b404f5a31e8c6a8386e2b7f95366fd3",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
